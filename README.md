@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.gif" alt="Alfa - Cybersecurity Engineer" width="100%"/>
+</p>
 
-<!--
-**yahfial/yahfial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am **Alfa**, a Cybersecurity Engineering student at Politeknik Siber dan Sandi Negara, focused on the intersection of **offensive security, web application security, and applied cryptography**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is hands-on: hunting real vulnerabilities through bug bounty programs, sharpening exploitation skills through CTF, and building security-first tooling — while keeping a strong academic foundation in distributed systems and cloud security.
+
+## Current Focus
+
+| Area | What I am exploring |
+|---|---|
+| **Web Exploitation** | SQLi, XSS, IDOR, auth bypass, business logic flaws — via CTF and real-world bug bounty targets |
+| **Bug Bounty** | Active recon & vulnerability hunting on HackerOne programs |
+| **Applied Cryptography** | Building encryption services and understanding crypto implementation pitfalls |
+| **Cloud & Distributed Security** | OWASP risk methodology, OAuth 2.0 flows, container security, cloud infra hardening |
+
+## Featured Work
+
+| Project | Focus | Why it matters |
+|---|---|---|
+| **Encryption as a Service** | Applied cryptography / microservice security | Containerized Flask microservice implementing AES-256-GCM encryption with MongoDB backend |
+| **HackerOne Recon Toolkit** | Bug bounty automation | Personal recon pipeline (subfinder, amass, gau, waybackurls, httpx) with structured reporting workflow |
+| **DVWA/Metasploitable Exploitation Lab** | Offensive security practicum | Hands-on exploitation of SQLi, XSS, IDOR, broken auth, and legacy service vulnerabilities |
+| **OWASP Risk Rating Assessment** | Vulnerability assessment methodology | Structured risk analysis applying OWASP methodology across 5 vulnerability classes |
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite)
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yahfial&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
