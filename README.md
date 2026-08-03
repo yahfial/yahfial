@@ -36,5 +36,5 @@ My current focus is hands-on: hunting real vulnerabilities through bug bounty pr
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
