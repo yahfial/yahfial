@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.gif" alt="Alfa - Cybersecurity Engineer" width="100%"/>
+  <img src="./assets/profile_card.gif" alt="Alfa profile" width="100%"/>
 </p>
 
 ## About Me
@@ -33,12 +33,6 @@ My current focus is hands-on: hunting real vulnerabilities through bug bounty pr
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kalilinux)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite)
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yahfial&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ## Recent Activity
 
