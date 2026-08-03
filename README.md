@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am **Alfa**, a Cybersecurity Engineering student at Politeknik Siber dan Sandi Negara, focused on the intersection of **offensive security, web application security, and applied cryptography**.
+I am **Yahfi**, i'm focused on the intersection of **offensive security, web application security, and applied cryptography**.
 
 My current focus is hands-on: hunting real vulnerabilities through bug bounty programs, sharpening exploitation skills through CTF, and building security-first tooling — while keeping a strong academic foundation in distributed systems and cloud security.
 
