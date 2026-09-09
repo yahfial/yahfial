@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <em>“Bumi Pasundan lahir ketika Tuhan sedang tersenyum”</em><br>
-  — <strong>M.A.W. Brouwer</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/yahfial"><img src="https://img.shields.io/badge/Focus-Offensive%20Security%20%7C%20AppSec-00c8ff?style=for-the-badge&logo=target&logoColor=white" alt="Focus"></a>
   <a href="https://hackerone.com"><img src="https://img.shields.io/badge/Bug%20Bounty-HackerOne-1f2328?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"></a>
   <a href="https://github.com/yahfial"><img src="https://img.shields.io/badge/Mode-CTF%20%2F%20Exploit%20Lab-238636?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Mode"></a>
